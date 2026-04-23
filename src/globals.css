@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;600;700&family=Fraunces:opsz,wght@9,700&display=swap');
+
+:root {
+  --bg-cream: #F5F0E8;
+  --text-main: #1A1410;
+  --text-muted: #8C7E74;
+  --accent-amber: #D97706;
+  --font-body: 'Epilogue', sans-serif;
+  --font-display: 'Fraunces', serif;
+}
+
+body {
+  background-color: var(--bg-cream);
+  color: var(--text-main);
+  font-family: var(--font-body);
+  margin: 0;
+  padding: 4rem 2rem;
+}
